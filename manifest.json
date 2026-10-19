@@ -1,0 +1,82 @@
+{
+  "dataset": "ncert-skill-taxonomy",
+  "version": "0.1.0",
+  "status": "AI-drafted; needs teacher review",
+  "generatedAt": "2026-10-18T15:18:22+00:00",
+  "derivedFrom": {
+    "name": "Marble Skill Taxonomy",
+    "version": "v1",
+    "repo": "https://github.com/withmarbleapp/os-taxonomy",
+    "commit": "96a7933",
+    "subset": "Mathematics"
+  },
+  "counts": {
+    "topics": 534,
+    "topicsByOrigin": {
+      "marble": 503,
+      "ncert-new": 31
+    },
+    "topicsByNcertStatus": {
+      "mapped": 442,
+      "no-ncert-home": 44,
+      "cross-cutting": 48
+    },
+    "dependencies": 1050,
+    "dependenciesByOrigin": {
+      "marble": 985,
+      "ncert-new": 65
+    },
+    "droppedCrossSubjectEdges": 66,
+    "books": 10,
+    "chapters": 106,
+    "chaptersWithAtLeastOneTopicByClass": {
+      "1": 13,
+      "2": 11,
+      "3": 14,
+      "4": 14,
+      "5": 15,
+      "6": 10,
+      "7": 15,
+      "8": 14
+    },
+    "chaptersByClass": {
+      "1": 13,
+      "2": 11,
+      "3": 14,
+      "4": 14,
+      "5": 15,
+      "6": 10,
+      "7": 15,
+      "8": 14
+    },
+    "ncfCompetencies": 63,
+    "ncfCurricularGoals": 16,
+    "chapterAlignments": 706,
+    "chapterAlignmentsByConfidence": {
+      "exact": 309,
+      "inferred": 397
+    }
+  },
+  "files": {
+    "topics.json": {
+      "bytes": 592788,
+      "sha256": "e2fd2b9ec2c081be718d5be27f48ee9f9c1d5390cf42013138a53efa7d18edcc"
+    },
+    "dependencies.json": {
+      "bytes": 244979,
+      "sha256": "6facd13e720ff94223bdab5d3a2eecaa987860c178ebcd41c758007b5ec2f0ae"
+    },
+    "ncert-alignments.json": {
+      "bytes": 453407,
+      "sha256": "9cb9fb14c28df3c6527cd78c4c84b45ea1fdb368af3a0d9d2007a3e4b5b07ab2"
+    },
+    "ncert-curriculum.json": {
+      "bytes": 56261,
+      "sha256": "5f953841111195d85448d6499ae24502c8daded020331cb79779a62af5016ba2"
+    },
+    "ncf-competencies.json": {
+      "bytes": 34712,
+      "sha256": "f07307c0fc29fb0c9ded4a0b60efcc50ee282cb773ba91166dc8e7c0070dcc32"
+    }
+  }
+}

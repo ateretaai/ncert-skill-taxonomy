@@ -1,0 +1,170 @@
+M171|7a:2*|
+M172|7b:3*,6:5|India: NCERT uses HCF and LCM terminology.
+M173|7a:2,8a:2|
+M174|7a:2,7b:7|
+M175|7b:2*|
+M176|3:8*|NCF-SE Foundational competencies (C-8.x) do not include fractions; NCERT starts halves/quarters in Class 3.
+M177|3:8*|See M176 note.
+M178|3:8,4:5|
+M179|3:8,4:5|
+M180|3:8*|
+M181|3:8,4:5|
+M182|4:5,6:7*|
+M183|4:5,6:7|
+M184|5:2,6:7|
+M185|5:2*|
+M186|5:2,6:7*|
+M187|5:2,6:7*|
+M188|3:8,4:5*|
+M189|7a:3*|NCERT introduces decimals (tenths) in GP7 Part I Ch 3, later than the UK (Year 3).
+M190|4:5*,6:7|
+M191|6:7*|
+M192|5:2,6:7*|
+M193|7a:3*|
+M194|7a:3|
+M195|7a:3*|
+M196|7a:3*|India: use ₹ and paise (e.g. ₹12.50) and metric units.
+M197|7a:3,7b:4|
+M198|5:2*,6:7*|
+M199|6:7*|
+M200|7a:3|
+M201|4:5,6:7|
+M202|6:7*,4:5|
+M203|6:7|
+M204|6:7,7a:8|
+M205|6:7*|
+M206|7a:3*|
+M207|7a:3,8b:1*|
+M208|6:7*|NCERT uses the term 'mixed fractions'.
+M209|6:7*|
+M210|6:7*|
+M211|7a:3*|
+M212|6:7*|
+M213|7a:3|
+M214|7a:3|
+M215|7a:3*|
+M216|7a:3,7b:4|
+M217|6:7*|
+M218|6:7*|
+M219|7a:8*|
+M220|6:7*|NCERT uses the term 'mixed fractions'.
+M221|7a:8*|
+M222|8b:1*|
+M223|7a:3*|
+M224|8b:1*|
+M225|6:7|
+M226|6:7*|
+M227|7a:8|
+M228|6:7*|
+M229|7b:4,7a:8|
+M230|7a:8*|
+M231|7a:8*|
+M232|7a:8*|
+M233|6:7*|
+M234|7a:8,6:7|
+M235|7a:8|
+M236|7a:8*|
+M237|7a:8*|
+M238|6:7,7b:3|
+M239|7a:8*|
+M240|7a:8,8b:1*|
+M241|7b:4,8b:1|
+M242|7a:8,7b:4,7b:2|
+M243|8a:7*,8b:1|
+M244|8a:7|
+M245|8b:1*|India: percentage contexts such as GST, discounts in ₹, exam marks.
+M246|8a:7*|
+M247|8b:3|Similarity proper is not a chapter in GP 6-8 (NCF-SE MS C-3.5 lists it); mapped to ratio/scale content. Low confidence.
+M248|8a:7*|
+M249|8a:7,8b:1|
+M250|8a:7*|
+M251|8a:7*,7a:3|India: metric only; drop imperial units.
+M252|8b:3*|
+M253|8b:1*|
+M254|8b:3*,5:14|India: map scales in km; use Indian maps/places.
+M255|8b:3,8a:7|India: unit price in ₹/kg, speed in km/h.
+M256|8a:7|
+M257|8b:3*|
+M258|8b:1*|India: profit/loss and discount in ₹.
+M259|8a:7*,8b:3|
+M260|8a:7*|
+M261|7a:4|
+M262|6:1*,7a:4|
+M263|6:1*|
+M264|6:3|Low confidence: NCF-SE MS C-8.2 asks for systematic counting/listing, but no GP 6-8 chapter heading names it.
+M265|6:6,7a:4*|
+M266|7b:7*|
+M267|7a:4*|NCERT calls variables 'letter-numbers' at first.
+M268|7a:4*|
+M269||Coordinates are not in NCERT Classes 1-8; Ganita Manjari 9 Ch 1 'Orienting Yourself: The Use of Coordinates' (title verified, content not checked).
+M270|7a:4,7b:7|Inequalities not seen in Classes 1-8 chapter headings.
+M271|7a:4*|
+M272|7a:4,8b:6|Partial: graph-based modelling not in Classes 1-8.
+M273|8a:6*,7a:4|
+M274|6:1*,7a:4|
+M275||Linear inequalities not found in NCERT Classes 1-8 headings or text search.
+M276|7b:7*|
+M277||Factorising not found as a Classes 1-8 topic; likely Ganita Manjari 9 Ch 4 'Exploring Algebraic Identities' (title verified, content not checked).
+M278||Linear graphs: Ganita Manjari 9 Ch 13 'Two Variables, One Line' (title verified, content not checked). Not in Classes 1-8.
+M279|7a:4,6:1|Partial: patterns-to-rules yes; formal nth-term notation not verified.
+M280||Not in Classes 1-8 (see M278).
+M281||Changing the subject of a formula not found in Classes 1-8.
+M282||Graphs of functions not in Classes 1-8.
+M283|8a:6|
+M284||Quadratic graphs: not in Classes 1-8 (beyond scope).
+M285||Simultaneous equations: not in Classes 1-8 (Class 10 'Pair of Linear Equations in Two Variables' in the 2006 book).
+M286|1:2*,2:4|
+M287|1:2*,2:2*|
+M288|1:1*|
+M289|1:2,2:2|
+M290|2:4,3:5|
+M291|3:5*,2:4|
+M292|2:2,2:4|
+M293|5:3*,2:9|
+M294|2:4*,3:2|
+M295|3:5*,3:14|
+M296|3:5*|
+M297|3:2|
+M298|3:5*|
+M299|3:2*,4:1|
+M300|1:9*,2:3|
+M301|2:5,2:9|
+M302|2:2,3:2|
+M303|3:2,3:5|
+M304|3:5,5:7|
+M305|2:5,7a:5*|
+M306|4:1*,5:3*|
+M307|4:1*,5:3*|
+M308||Coordinate grids are not in NCERT Classes 1-8 (see M269).
+M309|5:14|Partial: grid/map movement in Maths Mela 5 Ch 14; formal translations not in Classes 1-8.
+M310||First-quadrant coordinates not in NCERT Classes 1-8 (see M269).
+M311|4:11*|
+M312|4:1,5:3*|
+M313|5:7,8a:4*|
+M314|4:11*,6:9*|
+M315|4:1,8b:4*|
+M316|6:9|Partial: reflection/rotation via symmetry only; grid transformations not in Classes 1-8.
+M317|6:2,7a:5|
+M318|4:2*,8b:4*|
+M319|7a:5*|
+M320|8a:4,7a:5|
+M321|6:2*|
+M322|6:2*|
+M323|6:2*|
+M324|6:2*|
+M325|6:2,7a:5|
+M326|7b:6|
+M327|6:9|Partial (see M316).
+M328|6:8*,8a:4|
+M329|6:2*|
+M330|6:2,6:8*|
+M331|4:1,8b:4|
+M332|7a:7*,8a:4*|
+M333|8a:4|
+M334||Not in Classes 1-8 (see M269).
+M335||Not in Classes 1-8 (see M269).
+M336|4:1*,6:8|Circumference/pi not found in NCERT Classes 1-8 text search.
+M337||Not in Classes 1-8 (see M269).
+M338||Not in Classes 1-8 (see M269).
+M339|7a:5*|
+M340|8b:4*,4:1|
