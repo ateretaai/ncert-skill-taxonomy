@@ -4,9 +4,14 @@ An open, machine-readable map of **what Indian school students learn in mathemat
 
 It is a derivative of the [Marble Skill Taxonomy](https://github.com/withmarbleapp/os-taxonomy) (Mathematics subset), refined and re-aligned for the Indian curriculum.
 
-> **Version:** `0.1.0` · **Status: AI-drafted, NOT teacher-reviewed.** Every NCERT alignment, competency link, new topic and new prerequisite edge is a draft (`reviewStatus: "ai-draft"`). Do not use it for grading, placement or anything high-stakes until a qualified maths teacher has reviewed it. See [docs/coverage.md](docs/coverage.md) for the weak spots.
+> [!IMPORTANT]
+> **This dataset is AI-drafted and has not yet been reviewed by teachers.** It is not an official NCERT or CBSE publication, and it is not endorsed by NCERT, CBSE, or the Ministry of Education.
 >
-> Not affiliated with, or endorsed by, NCERT, CBSE or the Ministry of Education. NCERT book titles and chapter names are cited only to say where a skill is taught.
+> **Version** `0.1.0`. Every NCERT alignment, competency link, new topic, and new prerequisite edge is a draft (`reviewStatus: "ai-draft"`). Do not use it for grading, placement, or anything high-stakes until a qualified maths teacher has reviewed it. Weak spots are listed in [docs/coverage.md](docs/coverage.md). Book titles and chapter names are cited only to say where a skill is taught.
+>
+> **Educators:** please report errors by [opening a GitHub issue](https://github.com/ateretaai/ncert-skill-taxonomy/issues).
+
+Maintained by [Takhtee](https://takhtee.com). The taxonomy is used as free curriculum material in the Takhtee platform.
 
 ## What's inside
 
@@ -137,14 +142,24 @@ Same as Marble (`topicId`, `prerequisiteId`, `strength`, `reason`) plus `origin`
 
 ## Licence
 
-Same terms as the Marble upstream, which this dataset must keep (share-alike):
+The source of the mathematics skills is the [Marble Skill Taxonomy](https://github.com/withmarbleapp/os-taxonomy) (v1, Mathematics subset; © Generative Spark, Inc.). This dataset keeps Marble's share-alike terms. The summary below matches [LICENSE](LICENSE), [LICENSE-CONTENT](LICENSE-CONTENT), and [ATTRIBUTION.md](ATTRIBUTION.md):
 
-- **Database** (structure, ids, relationships, alignments): [ODbL 1.0](LICENSE).
-- **Text content** (topic names/descriptions/evidence/prompts, edge reasons, notes, summaries; Marble's and ours): [CC BY-SA 4.0](LICENSE-CONTENT).
-- **Not covered by these licences:** NCERT and NCF-SE material. We include only titles, codes and factual metadata, plus our own paraphrases. See [ATTRIBUTION.md](ATTRIBUTION.md).
+- **Database** (structure, ids, relationships, alignments): [Open Database License (ODbL) 1.0](LICENSE).
+- **Text content** (topic names, descriptions, evidence, prompts, edge reasons, notes, and summaries — Marble's and ours): [Creative Commons Attribution-ShareAlike 4.0](LICENSE-CONTENT) (CC BY-SA 4.0).
+- **Not covered by these licences:** NCERT and NCF-SE material. This repository includes only titles, codes, and factual metadata, plus our own paraphrases. See [ATTRIBUTION.md](ATTRIBUTION.md).
 
 You can build a commercial app on this data without open-sourcing the app. If you publish an improved version of the **dataset**, it must stay under ODbL / CC BY-SA, with attribution.
 
 ### Attribution (required)
 
 > ncert-skill-taxonomy v0.1 · derived from the Marble Skill Taxonomy (v1) · © Generative Spark, Inc. (Marble) · https://withmarble.com · licensed under ODbL 1.0 (database) and CC BY-SA 4.0 (content). NCERT/NCF-SE references are factual citations; not endorsed by NCERT.
+
+The upstream commit, the list of changes from Marble, and the boundary with NCERT text are in [ATTRIBUTION.md](ATTRIBUTION.md). To cite the dataset, use [CITATION.cff](CITATION.cff).
+
+## Contributing
+
+Teachers and curriculum specialists can correct this draft.
+
+- **Report an error** by [opening a GitHub issue](https://github.com/ateretaai/ncert-skill-taxonomy/issues). Name the topic id, chapter, or competency, and say what should change.
+- **Propose a correction** in a pull request. In the description, say what you changed and why (a textbook page or an NCF-SE reference helps).
+- Before submitting, run `python3 scripts/validate.py`. It must print `VALIDATION PASSED`.
