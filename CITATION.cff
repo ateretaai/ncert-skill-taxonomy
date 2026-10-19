@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it and the Marble Skill Taxonomy it derives from."
+title: "ncert-skill-taxonomy"
+abstract: >-
+  An open prerequisite graph of mathematics skills for Indian Classes 1-8, derived from the
+  Marble Skill Taxonomy and aligned to NCERT textbooks and NCF-SE 2023 competencies. AI-drafted; needs teacher review.
+type: dataset
+version: "0.1.0"
+date-released: "2026-10-18"
+license: ODbL-1.0
+authors:
+  - name: "ncert-skill-taxonomy contributors"
+references:
+  - type: dataset
+    title: "Marble Skill Taxonomy"
+    version: "v1"
+    url: "https://withmarble.com"
+    repository-code: "https://github.com/withmarbleapp/os-taxonomy"
+    license: ODbL-1.0
+    authors:
+      - family-names: "Boniface-Chang"
+        given-names: "Guillaume"
+      - name: "Generative Spark, Inc. (Marble)"

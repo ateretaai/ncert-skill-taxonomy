@@ -1,0 +1,402 @@
+{
+  "note": "Marble edges linking a Mathematics topic to a non-Mathematics topic; dropped because the other end is not in this dataset.",
+  "count": 66,
+  "edges": [
+    {
+      "topicId": "mt_0_K-GrKQpd",
+      "prerequisiteId": "mt_wUSbRt3-qw",
+      "strength": "soft",
+      "reason": "Interpreting cross-section diagrams of Earth builds on the skill of identifying 3-D shapes from 2-D representations"
+    },
+    {
+      "topicId": "mt_1VSfm9yiLn",
+      "prerequisiteId": "mt_f8n4txtLej",
+      "strength": "soft",
+      "reason": "Cross-subject: interpreting categorical data by asking/answering questions relies on the English skill of asking relevant questions to seek information"
+    },
+    {
+      "topicId": "mt_2ESZh70NyS",
+      "prerequisiteId": "mt_TDUpy57QVM",
+      "strength": "soft",
+      "reason": "Critiquing others' mathematical reasoning and explaining errors applies the universal error-analysis habit to peer arguments"
+    },
+    {
+      "topicId": "mt_-2VNlwAR5z",
+      "prerequisiteId": "mt_4MFUAsbx_6",
+      "strength": "hard",
+      "reason": "Drawing ray diagrams requires measuring angles accurately with a protractor — the core skill in mt_4MFUAsbx_6"
+    },
+    {
+      "topicId": "mt_3rTIyJDw7-",
+      "prerequisiteId": "mt_h3vmvQW5Wa",
+      "strength": "soft",
+      "reason": "Cross-subject: communicating with mathematical precision at ages 10-11 benefits from understanding formal vs informal vocabulary register"
+    },
+    {
+      "topicId": "mt_6eTZUwKQZr",
+      "prerequisiteId": "mt_kJ5wYzO8qC",
+      "strength": "soft",
+      "reason": "The universal self-explanation habit (LtL 7-8) builds on the maths-specific practice of explaining reasoning when prompted (MT 6-7)"
+    },
+    {
+      "topicId": "mt_6Z42wJaKYG",
+      "prerequisiteId": "mt_r8XnXwRA6g",
+      "strength": "soft",
+      "reason": "Analysing fossil record data using bar charts depends on scaled bar graph construction skills from Math"
+    },
+    {
+      "topicId": "mt_7EqhgErJyU",
+      "prerequisiteId": "mt_xppl18avyY",
+      "strength": "soft",
+      "reason": "Life cycle diagrams require classifying organisms into categories — the same sorting skill used in mt_xppl18avyY"
+    },
+    {
+      "topicId": "mt_7IFpDVNsmt",
+      "prerequisiteId": "mt_c29FaCTNsx",
+      "strength": "soft",
+      "reason": "Science data presentation (tables, bar charts) builds on maths pictogram/table skills"
+    },
+    {
+      "topicId": "mt_9IzhGUZ30z",
+      "prerequisiteId": "mt__KHQttMde3",
+      "strength": "hard",
+      "reason": "Reading number words (one, two, three...) requires phonics blending skills"
+    },
+    {
+      "topicId": "mt_9IzhGUZ30z",
+      "prerequisiteId": "mt_YKkCM63fSC",
+      "strength": "soft",
+      "reason": "Many number words are irregular and must be recognised as sight words"
+    },
+    {
+      "topicId": "mt_a3dov8CZkq",
+      "prerequisiteId": "mt_Y6P9y1Rz-u",
+      "strength": "soft",
+      "reason": "Critiquing the reasoning of others in maths requires the elaborative-interrogation habit of asking why things work or fail"
+    },
+    {
+      "topicId": "mt_aivrWs6jrS",
+      "prerequisiteId": "mt_hbe_kdE_7C",
+      "strength": "soft",
+      "reason": "Generalising fraction and times-table patterns is the maths-specific application of the universal generalisation habit"
+    },
+    {
+      "topicId": "mt_aWOK1npO5s",
+      "prerequisiteId": "mt_6J1wmCWf41",
+      "strength": "soft",
+      "reason": "Curriculum money problem-solving (Maths Y2) provides arithmetic foundation for making change"
+    },
+    {
+      "topicId": "mt_aWOK1npO5s",
+      "prerequisiteId": "mt_AF2BeFQwfX",
+      "strength": "soft",
+      "reason": "Finding coin combinations (Maths Y2) supports change calculation"
+    },
+    {
+      "topicId": "mt_C3eNLQJlgt",
+      "prerequisiteId": "mt_2yas4Unc8o",
+      "strength": "soft",
+      "reason": "Reading and constructing historical timelines requires understanding time unit conversions (decades, centuries, millennia)"
+    },
+    {
+      "topicId": "mt_C3eNLQJlgt",
+      "prerequisiteId": "mt_jBQS-CicNn",
+      "strength": "soft",
+      "reason": "Reading a timeline with a scale and reading coordinates on a grid share the same positional-notation skills"
+    },
+    {
+      "topicId": "mt_FAXjFkgG6X",
+      "prerequisiteId": "mt_wvcFlwOrDl",
+      "strength": "soft",
+      "reason": "Noticing place-value and operational structures in maths is the domain-specific application of the universal pattern-recognition habit"
+    },
+    {
+      "topicId": "mt_FieL-vVTI_",
+      "prerequisiteId": "mt_2uHYdoxD0H",
+      "strength": "soft",
+      "reason": "Analysing known and unknown quantities in complex maths problems draws on the universal metacognitive monitoring habit"
+    },
+    {
+      "topicId": "mt_FIkqA0qhnj",
+      "prerequisiteId": "mt_cPZwlUk8Nd",
+      "strength": "soft",
+      "reason": "Curriculum coins/notes recognition (Maths Y1) underpins exploratory coin knowledge"
+    },
+    {
+      "topicId": "mt_fR0UtsSREU",
+      "prerequisiteId": "mt_oAK9GXSfqV",
+      "strength": "hard",
+      "reason": "Writing numerals requires the motor skill of forming digits 0-9 (taught in English handwriting)"
+    },
+    {
+      "topicId": "mt_FW9_8F52bw",
+      "prerequisiteId": "mt_r8XnXwRA6g",
+      "strength": "soft",
+      "reason": "Cross-subject: independent research projects may involve collecting and presenting data using charts and graphs"
+    },
+    {
+      "topicId": "mt_go5i87u2b9",
+      "prerequisiteId": "mt_bj1YCgNWUx",
+      "strength": "soft",
+      "reason": "Observing and describing seasonal changes requires basic date and time vocabulary (months, seasons, year)"
+    },
+    {
+      "topicId": "mt_GpltXPoaoc",
+      "prerequisiteId": "mt_q7zxOloj_L",
+      "strength": "soft",
+      "reason": "Planning multi-step mathematical strategies and evaluating them is the maths-specific form of the universal strategy-evaluation habit"
+    },
+    {
+      "topicId": "mt_hImiKNiaNh",
+      "prerequisiteId": "mt_wvcFlwOrDl",
+      "strength": "soft",
+      "reason": "Using algebraic and shape structure to solve problems is the advanced maths form of the universal pattern-recognition habit"
+    },
+    {
+      "topicId": "mt_hlGKg5M7qJ",
+      "prerequisiteId": "mt_wvcFlwOrDl",
+      "strength": "soft",
+      "reason": "Exploiting relationships between fractions, decimals and percentages requires pattern recognition across representations"
+    },
+    {
+      "topicId": "mt_HY8Yycu_rz",
+      "prerequisiteId": "mt_B8JOz79O6t",
+      "strength": "soft",
+      "reason": "Cross-subject: communicating with mathematical precision (place-value/fraction vocabulary, specifying units) benefits from awareness of technical terminology conventions taught in English"
+    },
+    {
+      "topicId": "mt_HZvTriQWTh",
+      "prerequisiteId": "mt_bj1YCgNWUx",
+      "strength": "soft",
+      "reason": "Recording local weather conditions over time requires vocabulary for days, weeks, and months"
+    },
+    {
+      "topicId": "mt__Itf4aQZUj",
+      "prerequisiteId": "mt_wvcFlwOrDl",
+      "strength": "soft",
+      "reason": "Using mathematical structure (distributive property, fraction equivalence) draws on the universal pattern-and-structure habit"
+    },
+    {
+      "topicId": "mt_IX37F4rNed",
+      "prerequisiteId": "mt_2ESZh70NyS",
+      "strength": "soft",
+      "reason": "Cross-subject: providing reasoned justifications for views about texts benefits from constructing logical multi-step arguments in maths"
+    },
+    {
+      "topicId": "mt_iyovKgZC1q",
+      "prerequisiteId": "mt_hbe_kdE_7C",
+      "strength": "soft",
+      "reason": "Describing algebraic rules and extending angle facts to any polygon is the mature maths form of the universal generalisation habit"
+    },
+    {
+      "topicId": "mt_jCy07DyBNU",
+      "prerequisiteId": "mt_hbe_kdE_7C",
+      "strength": "soft",
+      "reason": "Describing general rules for sequences and predicting terms applies the universal generalisation habit in a mathematical context"
+    },
+    {
+      "topicId": "mt_JVVKT-_AD9",
+      "prerequisiteId": "mt_Cqm8iy48UI",
+      "strength": "soft",
+      "reason": "Cross-subject: drawing on information from multiple print/digital sources benefits from the ability to read and interpret tables"
+    },
+    {
+      "topicId": "mt_JyfLtl_nhw",
+      "prerequisiteId": "mt_PNSyfH56eQ",
+      "strength": "soft",
+      "reason": "Calculating energy efficiency as a percentage requires percentage calculation skills from Math"
+    },
+    {
+      "topicId": "mt_KbCCmLmxYN",
+      "prerequisiteId": "mt_H6LlpWgEYS",
+      "strength": "soft",
+      "reason": "Interpreting visual information in non-fiction texts draws on line graph reading skills from Math"
+    },
+    {
+      "topicId": "mt_kgTN6yk4oE",
+      "prerequisiteId": "mt_6oxQPNLHNv",
+      "strength": "soft",
+      "reason": "Understanding measurement of length and mass helps children appreciate the scale of engineering involved in moving and lifting multi-tonne stone blocks"
+    },
+    {
+      "topicId": "mt_lMz9nAs7VO",
+      "prerequisiteId": "mt_yBJyCfhtem",
+      "strength": "soft",
+      "reason": "Cross-subject: using mathematical words precisely when counting/comparing relies on basic noun/verb awareness from English"
+    },
+    {
+      "topicId": "mt_LsY4-T2fU7",
+      "prerequisiteId": "mt_r8XnXwRA6g",
+      "strength": "soft",
+      "reason": "Graphing water distribution builds on maths data representation skills"
+    },
+    {
+      "topicId": "mt_miGrca8zaS",
+      "prerequisiteId": "mt_O_UOTiMvT_",
+      "strength": "soft",
+      "reason": "The SEL skill of breaking a big task into manageable steps parallels and builds on the mathematical practice of planning a step-by-step approach to complex problems"
+    },
+    {
+      "topicId": "mt_mmudyxf7bT",
+      "prerequisiteId": "mt_Qcp2d_kuta",
+      "strength": "soft",
+      "reason": "Recognising pyramids as a named 3D geometric shape makes study of the Great Pyramid's physical structure more concrete"
+    },
+    {
+      "topicId": "mt_nDAcXoPa0c",
+      "prerequisiteId": "mt_M5PPDJStGm",
+      "strength": "soft",
+      "reason": "Sequencing events in narrative writing draws on the ordinal/sequential thinking developed through counting"
+    },
+    {
+      "topicId": "mt_nUnowllzaN",
+      "prerequisiteId": "mt_NtJYlJdUe9",
+      "strength": "soft",
+      "reason": "Systematic scientific measurement builds on understanding measurable attributes from maths"
+    },
+    {
+      "topicId": "mt_nyK25mNOeR",
+      "prerequisiteId": "mt_mB7DVai-Uf",
+      "strength": "soft",
+      "reason": "Explaining mathematical reasoning orally requires basic listening and responding skills"
+    },
+    {
+      "topicId": "mt_NYsz6QgaaE",
+      "prerequisiteId": "mt_ChjMU2GDJa",
+      "strength": "soft",
+      "reason": "Representing weather data in graphical displays requires the bar chart and time graph skills taught in Math"
+    },
+    {
+      "topicId": "mt_NYsz6QgaaE",
+      "prerequisiteId": "mt_r8XnXwRA6g",
+      "strength": "soft",
+      "reason": "Weather data graphing builds on maths scaled bar chart skills"
+    },
+    {
+      "topicId": "mt_oL9s_bufDp",
+      "prerequisiteId": "mt_dmNvjroCPT",
+      "strength": "soft",
+      "reason": "Sorting and categorising objects uses the same counting/cardinality skills from maths"
+    },
+    {
+      "topicId": "mt_O_UOTiMvT_",
+      "prerequisiteId": "mt_klyw-tdlhP",
+      "strength": "soft",
+      "reason": "Evaluating whether a maths solution is reasonable applies the universal comprehension-monitoring habit"
+    },
+    {
+      "topicId": "mt_O_UOTiMvT_",
+      "prerequisiteId": "mt_QR3vxbN1o4",
+      "strength": "soft",
+      "reason": "Planning a mathematical approach is the domain-specific application of the universal task-planning habit"
+    },
+    {
+      "topicId": "mt_OUv-QXmW7_",
+      "prerequisiteId": "mt_kLQOzZYrd5",
+      "strength": "soft",
+      "reason": "Interpreting distance–time graphs requires understanding compound units such as metres per second or km/h"
+    },
+    {
+      "topicId": "mt_pAuo9Op89t",
+      "prerequisiteId": "mt_WkKkb7W9Qd",
+      "strength": "soft",
+      "reason": "Growth mindset understanding (SEL) is grounded in the concrete experience of persevering through mathematical problems — the abstract principle is made real through mathematics"
+    },
+    {
+      "topicId": "mt_PPNDO7BUrY",
+      "prerequisiteId": "mt_k2WE0-22-4",
+      "strength": "soft",
+      "reason": "The Rhind Mathematical Papyrus works extensively with unit fractions; prior knowledge of unit fractions makes its mathematical significance tangible"
+    },
+    {
+      "topicId": "mt_pTz6u49fQt",
+      "prerequisiteId": "mt_bj1YCgNWUx",
+      "strength": "soft",
+      "reason": "Placing ancient Egypt on a chronological timeline requires vocabulary for dates and time periods (BCE/CE, era, century)"
+    },
+    {
+      "topicId": "mt_pyMD_SIiYO",
+      "prerequisiteId": "mt_4A7FYmvVhA",
+      "strength": "soft",
+      "reason": "Cross-subject: constructing and following multi-step mathematical arguments requires the ability to express thoughts and give well-structured explanations orally"
+    },
+    {
+      "topicId": "mt_pyMD_SIiYO",
+      "prerequisiteId": "mt_6eTZUwKQZr",
+      "strength": "soft",
+      "reason": "Constructing multi-step mathematical arguments and identifying errors in reasoning is the maths form of the universal self-explanation habit"
+    },
+    {
+      "topicId": "mt_q-1a86ydgU",
+      "prerequisiteId": "mt_kLQOzZYrd5",
+      "strength": "soft",
+      "reason": "Calculating speed as distance ÷ time applies compound-unit thinking from Math"
+    },
+    {
+      "topicId": "mt_q7zxOloj_L",
+      "prerequisiteId": "mt_O_UOTiMvT_",
+      "strength": "soft",
+      "reason": "The LtL strategy evaluation skill (9-10) builds on the early scaffolded habit of checking reasonableness in maths introduced at 6-7"
+    },
+    {
+      "topicId": "mt_q7zxOloj_L",
+      "prerequisiteId": "mt_RKeheOL9uo",
+      "strength": "soft",
+      "reason": "The LtL strategy evaluation skill (9-10) builds on the maths-specific checking habit developed with teacher support at 7-8"
+    },
+    {
+      "topicId": "mt_rDjtmDogJr",
+      "prerequisiteId": "mt_ChjMU2GDJa",
+      "strength": "soft",
+      "reason": "Complex science graphs (scatter, line) build on maths discrete/continuous data graphing"
+    },
+    {
+      "topicId": "mt_RKeheOL9uo",
+      "prerequisiteId": "mt_95zxYqpP7m",
+      "strength": "soft",
+      "reason": "Trying a different mathematical strategy when stuck is the maths-specific application of the universal strategy-switching habit"
+    },
+    {
+      "topicId": "mt_RKeheOL9uo",
+      "prerequisiteId": "mt_N8CpN1EJrP",
+      "strength": "soft",
+      "reason": "Cross-subject: making sense of multi-step word problems requires understanding that sentences express complete thoughts (reading comprehension foundation)"
+    },
+    {
+      "topicId": "mt_SmghasIvbT",
+      "prerequisiteId": "mt_TDUpy57QVM",
+      "strength": "soft",
+      "reason": "Evaluating reasonableness using estimation and inverse operations applies the universal error-analysis habit to maths"
+    },
+    {
+      "topicId": "mt_w4wKFP3jud",
+      "prerequisiteId": "mt_r8XnXwRA6g",
+      "strength": "soft",
+      "reason": "Cross-subject: understanding informational text connections (e.g. texts with charts/graphs) benefits from data representation literacy in maths"
+    },
+    {
+      "topicId": "mt_WkKkb7W9Qd",
+      "prerequisiteId": "mt_8dstvf-KKb",
+      "strength": "soft",
+      "reason": "Checking whether a maths answer makes sense applies the universal self-checking habit to a mathematical context"
+    },
+    {
+      "topicId": "mt_WkKkb7W9Qd",
+      "prerequisiteId": "mt_mLPEMpYb_R",
+      "strength": "soft",
+      "reason": "Making sense of word problems requires listening comprehension skills"
+    },
+    {
+      "topicId": "mt_WkKkb7W9Qd",
+      "prerequisiteId": "mt_S4G6GLKr1-",
+      "strength": "soft",
+      "reason": "Mathematical perseverance with problems is the domain-specific application of the universal persistence habit"
+    },
+    {
+      "topicId": "mt_YHsUhi4Prc",
+      "prerequisiteId": "mt_ChjMU2GDJa",
+      "strength": "soft",
+      "reason": "Science inquiry recording data in tables and graphs draws on the bar chart and time graph skills from Math data representation"
+    }
+  ]
+}

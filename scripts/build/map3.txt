@@ -1,0 +1,115 @@
+M341|6:2*,6:8,8b:3|
+M342|7a:7,8a:4*|
+M343|6:2*,7a:5|
+M344|7a:5*|
+M345|7a:7*,8a:4|Triangle and quadrilateral angle sums found; the general polygon formula (n-2)x180 was not verified in Classes 1-8.
+M346|8b:7*,6:6|Partial: areas of triangles/parallelograms/trapezia are in GP8 Part II Ch 7; volume of cuboids was not found in Classes 1-8.
+M347|6:9|Partial (see M316).
+M348|7b:1*|
+M349|7a:5*|
+M350||Circumference and area of circles not found in NCERT Classes 1-8 (text search for circumference/pi returned nothing). Old Class 10 book has 'Areas Related to Circles'.
+M351||Similarity by enlargement: NCF-SE MS C-3.5 names similarity, but no GP 6-8 chapter heading covers it. Unverified.
+M352|6:8*,7b:6*,7a:7|
+M353|8b:2*|
+M354||Trigonometry: not in Classes 1-8 (old Class 10 book Ch 8).
+M355|1:7,3:11*|
+M356|1:7*|
+M357|1:10|
+M358|1:7*,2:7|
+M359|1:7,2:7*|
+M360|1:10*|
+M361|3:11*|
+M362|1:12*,2:10*|India: ₹ coins and notes (₹1, ₹2, ₹5, ₹10, ₹20 ...).
+M363|2:9*,1:10|India: Indian calendar months/festivals also used in NCERT contexts.
+M364|2:7*,3:10*|
+M365|2:7,3:11*|
+M366|2:9*,3:13|
+M367|3:13,5:12*|
+M368|2:10*|India: combinations of ₹ coins and notes.
+M369|3:10,3:11,4:8|Temperature (°C) appears only later in NCERT (GP6 Ch 10 integers context).
+M370|3:10,3:11|
+M371|1:7,2:7|
+M372|2:7*,3:10|
+M373|2:10*,4:7|India: ₹ contexts.
+M374|3:13*,4:12|
+M375|2:10|LOCALISED: £/pence replaced by ₹/paise (see localised fields).
+M376|3:13,4:12|
+M377|4:12*|
+M378|3:10,4:6|
+M379|4:6,4:8*|
+M380|4:12*|
+M381|3:10*|
+M382|4:6*|LOCALISED: inches/feet removed; metric only.
+M383|4:12,5:12*|
+M384|4:7*|LOCALISED: £/p replaced by ₹.
+M385|2:10,4:7|LOCALISED: US coins ($, ¢) replaced by ₹ coins and notes.
+M386||US 'line plot' representation is not used in NCERT; NCERT uses tables, tally marks, pictographs and bar graphs.
+M387|4:6*|
+M388|3:10*,4:6|LOCALISED: yardsticks/inches/feet removed; metric only.
+M389|3:10*,2:7|
+M390|5:12*|a.m./p.m. found in Maths Mela 5 Ch 12; 24-hour clock not found in Classes 1-8.
+M391|4:12*,5:12|
+M392|5:12|Partial: 24-hour clock conversion not found in Classes 1-8.
+M393|5:11*,6:6|LOCALISED: square inches/feet removed.
+M394|8a:6,6:6|
+M395|5:11*,6:6|
+M396|6:6*,8b:7|
+M397|5:5*,5:12|
+M398|4:7,5:4|LOCALISED: £/p replaced by ₹.
+M399||US customary (half/quarter inch) line plots: not applicable in India.
+M400|4:8*,5:8*|
+M401|4:12,5:12|
+M402|6:6*,4:6|
+M403|4:12*,5:12|
+M404|5:11*,6:6|
+M405|6:6*,5:11|
+M406|5:5*,5:8*,5:12|
+M407|6:6*|
+M408|4:8|Partial: capacity estimation yes; volume with 1 cm3 cubes not found in Classes 1-8.
+M409|5:5,5:8,5:4|India: ₹ for money.
+M410||US line plots: not used in NCERT.
+M411||Not applicable in India: metric system only; imperial conversions are not in the NCERT curriculum.
+M412|6:6*|
+M413|5:12*,4:12|
+M414|8b:7*,6:6*|
+M415|8a:1|Partial: unit cubes appear when building cube numbers (GP8 Part I Ch 1); volume measurement itself not found in Classes 1-8.
+M416|7a:3*|
+M417||Volume of cuboids (l x b x h) not found in NCERT Classes 1-8; Ganita Manjari 9 Ch 14 'Math of Space: Surface Area and Volume' (title verified).
+M418|8a:7*,7a:3|
+M419||Volume as an attribute: not found in Classes 1-8 (see M417).
+M420||Not applicable in India (miles not used).
+M421|5:11,6:6*|Also NCF-SE Preparatory C-3.6.
+M422||Not found in Classes 1-8 (see M417).
+M423|1:13*,1:1|
+M424|2:11*,3:1,4:14,5:15|
+M425|1:13*|
+M426|1:13,2:11*|
+M427|5:15,6:4*|
+M428|5:15*|
+M429|6:4*,8b:5|
+M430|6:4*|
+M431|6:4*|
+M432|4:14,5:15|
+M433|7b:5*,8b:5|
+M434|7b:5*,8b:5*|
+M435|8b:3*,8b:5*|
+M436||US line plots: not used in NCERT.
+M437|7b:5*,8b:5|
+M438|6:4,8b:3,8b:5|
+M439||Scatter graphs: not in Classes 1-8.
+M440||Scatter graphs: not in Classes 1-8.
+M441||Probability is not in NCERT Classes 1-8 (no probability text found); Ganita Manjari 9 Ch 7 'The Mathematics of Maybe' (title verified).
+M442||See M441.
+M443||See M441.
+M444||See M441.
+M445||See M441.
+M446||See M441.
+M447||See M441.
+M448||See M441.
+M449||See M441.
+M450||See M441.
+M451||See M441.
+M452||See M441.
+M453|8a:4|Partial: Venn diagrams appear for classifying quadrilaterals (GP8 Part I Ch 4), not for counting outcomes.
+M454|8a:4|Partial (see M453).
+M455||Tree diagrams: not in Classes 1-8.

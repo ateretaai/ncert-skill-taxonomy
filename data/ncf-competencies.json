@@ -1,0 +1,1057 @@
+{
+  "dataset": "ncert-skill-taxonomy",
+  "version": "0.1.0",
+  "source": {
+    "title": "National Curriculum Framework for School Education 2023 (NCF-SE 2023)",
+    "publisher": "NCERT, Ministry of Education, Government of India",
+    "edition": "First Edition, October 2024 (Kartika 1946)",
+    "isbn": "978-93-5292-741-8",
+    "url": "https://www.ncert.nic.in/pdf/NCFSE-2023-August_2023.pdf",
+    "retrieved": "2026-10-18",
+    "copyright": "(c) National Council of Educational Research and Training, 2024. ALL RIGHTS RESERVED (per imprint page)."
+  },
+  "textPolicy": "Codes are reproduced as factual identifiers. Because the NCF-SE PDF is 'all rights reserved' and this dataset is redistributed under open licences, the official competency wording is NOT reproduced. Each 'summary' is the editors' own short paraphrase written for navigation; consult the official PDF (sections/pages given) for the authoritative text. Codes restart per stage, so they are namespaced FS/PS/MS.",
+  "stages": {
+    "FS": {
+      "stage": "Foundational",
+      "grades": "Preschool (ages 3-6) + Classes 1-2",
+      "section": "Part C, Chapter 1, Section 1.4, Table 1.1iii (Domain: Cognitive Development)",
+      "printedPages": "200",
+      "pdfPages": "214"
+    },
+    "PS": {
+      "stage": "Preparatory",
+      "grades": "Classes 3-5",
+      "section": "Part C, Chapter 3, Section 3.4.1.1",
+      "printedPages": "253-254",
+      "pdfPages": "267-268"
+    },
+    "MS": {
+      "stage": "Middle",
+      "grades": "Classes 6-8",
+      "section": "Part C, Chapter 3, Section 3.4.1.2",
+      "printedPages": "255-257",
+      "pdfPages": "269-271"
+    }
+  },
+  "notes": [
+    "Foundational Stage competencies are organised by developmental domain; mathematics sits under CG-8 (Cognitive Development). Other Foundational CGs are not maths and are omitted.",
+    "The Preparatory Stage mathematics list (CG-1 to CG-5) contains no explicit data-handling competency, although Maths Mela 4 and 5 have data chapters.",
+    "NCF-SE describes competencies as end-of-stage and suggestive; they are not per-class learning outcomes.",
+    "Secondary Stage (Classes 9-10) competencies exist (CG-1 to CG-11) but are out of scope for v0.1."
+  ],
+  "curricularGoals": [
+    {
+      "id": "ncfse-2023:FS.CG-8",
+      "stageCode": "FS",
+      "stage": "Foundational",
+      "code": "CG-8",
+      "summary": "Builds mathematical understanding of the world through quantity, shape and measurement.",
+      "summaryIsParaphrase": true
+    },
+    {
+      "id": "ncfse-2023:PS.CG-1",
+      "stageCode": "PS",
+      "stage": "Preparatory",
+      "code": "CG-1",
+      "summary": "Understands counting numbers and simple fractions, the Indian place-value system, the four operations and number patterns.",
+      "summaryIsParaphrase": true
+    },
+    {
+      "id": "ncfse-2023:PS.CG-2",
+      "stageCode": "PS",
+      "stage": "Preparatory",
+      "code": "CG-2",
+      "summary": "Analyses 2D and 3D shapes, location and spatial relationships, and symmetry.",
+      "summaryIsParaphrase": true
+    },
+    {
+      "id": "ncfse-2023:PS.CG-3",
+      "stageCode": "PS",
+      "stage": "Preparatory",
+      "code": "CG-3",
+      "summary": "Understands measurable attributes and their units and processes (length, distance, weight, area, volume, time), non-standard and standard.",
+      "summaryIsParaphrase": true
+    },
+    {
+      "id": "ncfse-2023:PS.CG-4",
+      "stageCode": "PS",
+      "stage": "Preparatory",
+      "code": "CG-4",
+      "summary": "Develops problem solving with procedural fluency for puzzles and daily-life problems, as a step towards computational thinking.",
+      "summaryIsParaphrase": true
+    },
+    {
+      "id": "ncfse-2023:PS.CG-5",
+      "stageCode": "PS",
+      "stage": "Preparatory",
+      "code": "CG-5",
+      "summary": "Knows and appreciates India's development of the decimal place-value system now used worldwide.",
+      "summaryIsParaphrase": true
+    },
+    {
+      "id": "ncfse-2023:MS.CG-1",
+      "stageCode": "MS",
+      "stage": "Middle",
+      "code": "CG-1",
+      "summary": "Understands numbers and number sets, looks for patterns and relationships between numbers.",
+      "summaryIsParaphrase": true
+    },
+    {
+      "id": "ncfse-2023:MS.CG-2",
+      "stageCode": "MS",
+      "stage": "Middle",
+      "code": "CG-2",
+      "summary": "Understands variable, constant, coefficient, expression and one-variable equation, and uses them to solve problems fluently.",
+      "summaryIsParaphrase": true
+    },
+    {
+      "id": "ncfse-2023:MS.CG-3",
+      "stageCode": "MS",
+      "stage": "Middle",
+      "code": "CG-3",
+      "summary": "Understands and applies properties and theorems of simple 2D and 3D shapes.",
+      "summaryIsParaphrase": true
+    },
+    {
+      "id": "ncfse-2023:MS.CG-4",
+      "stageCode": "MS",
+      "stage": "Middle",
+      "code": "CG-4",
+      "summary": "Understands perimeter and area of 2D shapes and uses them in daily-life problems.",
+      "summaryIsParaphrase": true
+    },
+    {
+      "id": "ncfse-2023:MS.CG-5",
+      "stageCode": "MS",
+      "stage": "Middle",
+      "code": "CG-5",
+      "summary": "Collects, organises, represents and interprets data from daily life.",
+      "summaryIsParaphrase": true
+    },
+    {
+      "id": "ncfse-2023:MS.CG-6",
+      "stageCode": "MS",
+      "stage": "Middle",
+      "code": "CG-6",
+      "summary": "Develops mathematical thinking and precise, logical communication.",
+      "summaryIsParaphrase": true
+    },
+    {
+      "id": "ncfse-2023:MS.CG-7",
+      "stageCode": "MS",
+      "stage": "Middle",
+      "code": "CG-7",
+      "summary": "Engages with puzzles and problems using own creative strategies.",
+      "summaryIsParaphrase": true
+    },
+    {
+      "id": "ncfse-2023:MS.CG-8",
+      "stageCode": "MS",
+      "stage": "Middle",
+      "code": "CG-8",
+      "summary": "Develops computational-thinking skills (decomposition, patterns, data representation, generalisation, abstraction, algorithms).",
+      "summaryIsParaphrase": true
+    },
+    {
+      "id": "ncfse-2023:MS.CG-9",
+      "stageCode": "MS",
+      "stage": "Middle",
+      "code": "CG-9",
+      "summary": "Knows the historical development of mathematical ideas and contributions of mathematicians from India and the world.",
+      "summaryIsParaphrase": true
+    },
+    {
+      "id": "ncfse-2023:MS.CG-10",
+      "stageCode": "MS",
+      "stage": "Middle",
+      "code": "CG-10",
+      "summary": "Appreciates how mathematics interacts with other school subjects.",
+      "summaryIsParaphrase": true
+    }
+  ],
+  "competencies": [
+    {
+      "id": "ncfse-2023:FS.C-8.1",
+      "stage": "Foundational",
+      "stageCode": "FS",
+      "grades": "Preschool (ages 3-6) + Classes 1-2",
+      "cg": "CG-8",
+      "code": "C-8.1",
+      "summary": "Sorts objects into groups and sub-groups using more than one attribute.",
+      "summaryIsParaphrase": true,
+      "source": {
+        "section": "Part C, Chapter 1, Section 1.4, Table 1.1iii (Domain: Cognitive Development)",
+        "printedPages": "200"
+      }
+    },
+    {
+      "id": "ncfse-2023:FS.C-8.2",
+      "stage": "Foundational",
+      "stageCode": "FS",
+      "grades": "Preschool (ages 3-6) + Classes 1-2",
+      "cg": "CG-8",
+      "code": "C-8.2",
+      "summary": "Notices and continues simple patterns in surroundings, shapes and numbers.",
+      "summaryIsParaphrase": true,
+      "source": {
+        "section": "Part C, Chapter 1, Section 1.4, Table 1.1iii (Domain: Cognitive Development)",
+        "printedPages": "200"
+      }
+    },
+    {
+      "id": "ncfse-2023:FS.C-8.3",
+      "stage": "Foundational",
+      "stageCode": "FS",
+      "grades": "Preschool (ages 3-6) + Classes 1-2",
+      "cg": "CG-8",
+      "code": "C-8.3",
+      "summary": "Counts to 99 forwards and backwards, and in 5s, 10s and 20s.",
+      "summaryIsParaphrase": true,
+      "source": {
+        "section": "Part C, Chapter 1, Section 1.4, Table 1.1iii (Domain: Cognitive Development)",
+        "printedPages": "200"
+      }
+    },
+    {
+      "id": "ncfse-2023:FS.C-8.4",
+      "stage": "Foundational",
+      "stageCode": "FS",
+      "grades": "Preschool (ages 3-6) + Classes 1-2",
+      "cg": "CG-8",
+      "code": "C-8.4",
+      "summary": "Orders numbers up to 99 in increasing and decreasing order.",
+      "summaryIsParaphrase": true,
+      "source": {
+        "section": "Part C, Chapter 1, Section 1.4, Table 1.1iii (Domain: Cognitive Development)",
+        "printedPages": "200"
+      }
+    },
+    {
+      "id": "ncfse-2023:FS.C-8.5",
+      "stage": "Foundational",
+      "stageCode": "FS",
+      "grades": "Preschool (ages 3-6) + Classes 1-2",
+      "cg": "CG-8",
+      "code": "C-8.5",
+      "summary": "Uses numerals up to 99 for quantities, with place-value understanding.",
+      "summaryIsParaphrase": true,
+      "source": {
+        "section": "Part C, Chapter 1, Section 1.4, Table 1.1iii (Domain: Cognitive Development)",
+        "printedPages": "200"
+      }
+    },
+    {
+      "id": "ncfse-2023:FS.C-8.6",
+      "stage": "Foundational",
+      "stageCode": "FS",
+      "grades": "Preschool (ages 3-6) + Classes 1-2",
+      "cg": "CG-8",
+      "code": "C-8.6",
+      "summary": "Adds and subtracts 2-digit numbers fluently by composing and decomposing, including word problems.",
+      "summaryIsParaphrase": true,
+      "source": {
+        "section": "Part C, Chapter 1, Section 1.4, Table 1.1iii (Domain: Cognitive Development)",
+        "printedPages": "200"
+      }
+    },
+    {
+      "id": "ncfse-2023:FS.C-8.7",
+      "stage": "Foundational",
+      "stageCode": "FS",
+      "grades": "Preschool (ages 3-6) + Classes 1-2",
+      "cg": "CG-8",
+      "code": "C-8.7",
+      "summary": "Sees multiplication as repeated addition and division as equal sharing.",
+      "summaryIsParaphrase": true,
+      "source": {
+        "section": "Part C, Chapter 1, Section 1.4, Table 1.1iii (Domain: Cognitive Development)",
+        "printedPages": "200"
+      }
+    },
+    {
+      "id": "ncfse-2023:FS.C-8.8",
+      "stage": "Foundational",
+      "stageCode": "FS",
+      "grades": "Preschool (ages 3-6) + Classes 1-2",
+      "cg": "CG-8",
+      "code": "C-8.8",
+      "summary": "Recognises, makes and classifies basic shapes by visible properties; describes relative positions in space.",
+      "summaryIsParaphrase": true,
+      "source": {
+        "section": "Part C, Chapter 1, Section 1.4, Table 1.1iii (Domain: Cognitive Development)",
+        "printedPages": "200"
+      }
+    },
+    {
+      "id": "ncfse-2023:FS.C-8.9",
+      "stage": "Foundational",
+      "stageCode": "FS",
+      "grades": "Preschool (ages 3-6) + Classes 1-2",
+      "cg": "CG-8",
+      "code": "C-8.9",
+      "summary": "Chooses suitable tools and units for simple measurements of length, weight and volume.",
+      "summaryIsParaphrase": true,
+      "source": {
+        "section": "Part C, Chapter 1, Section 1.4, Table 1.1iii (Domain: Cognitive Development)",
+        "printedPages": "200"
+      }
+    },
+    {
+      "id": "ncfse-2023:FS.C-8.10",
+      "stage": "Foundational",
+      "stageCode": "FS",
+      "grades": "Preschool (ages 3-6) + Classes 1-2",
+      "cg": "CG-8",
+      "code": "C-8.10",
+      "summary": "Measures simple time spans in minutes, hours, days, weeks and months.",
+      "summaryIsParaphrase": true,
+      "source": {
+        "section": "Part C, Chapter 1, Section 1.4, Table 1.1iii (Domain: Cognitive Development)",
+        "printedPages": "200"
+      }
+    },
+    {
+      "id": "ncfse-2023:FS.C-8.11",
+      "stage": "Foundational",
+      "stageCode": "FS",
+      "grades": "Preschool (ages 3-6) + Classes 1-2",
+      "cg": "CG-8",
+      "code": "C-8.11",
+      "summary": "Carries out simple money transactions up to ₹100.",
+      "summaryIsParaphrase": true,
+      "source": {
+        "section": "Part C, Chapter 1, Section 1.4, Table 1.1iii (Domain: Cognitive Development)",
+        "printedPages": "200"
+      }
+    },
+    {
+      "id": "ncfse-2023:FS.C-8.12",
+      "stage": "Foundational",
+      "stageCode": "FS",
+      "grades": "Preschool (ages 3-6) + Classes 1-2",
+      "cg": "CG-8",
+      "code": "C-8.12",
+      "summary": "Uses suitable vocabulary for quantities, shapes, space and measurement.",
+      "summaryIsParaphrase": true,
+      "source": {
+        "section": "Part C, Chapter 1, Section 1.4, Table 1.1iii (Domain: Cognitive Development)",
+        "printedPages": "200"
+      }
+    },
+    {
+      "id": "ncfse-2023:FS.C-8.13",
+      "stage": "Foundational",
+      "stageCode": "FS",
+      "grades": "Preschool (ages 3-6) + Classes 1-2",
+      "cg": "CG-8",
+      "code": "C-8.13",
+      "summary": "Poses and solves simple problems about quantities, shapes, space and measurement.",
+      "summaryIsParaphrase": true,
+      "source": {
+        "section": "Part C, Chapter 1, Section 1.4, Table 1.1iii (Domain: Cognitive Development)",
+        "printedPages": "200"
+      }
+    },
+    {
+      "id": "ncfse-2023:FS.C-8.14",
+      "stage": "Foundational",
+      "stageCode": "FS",
+      "grades": "Preschool (ages 3-6) + Classes 1-2",
+      "cg": "CG-8",
+      "code": "C-8.14",
+      "summary": "Feels confident and sees mathematics as doable and worthwhile.",
+      "summaryIsParaphrase": true,
+      "source": {
+        "section": "Part C, Chapter 1, Section 1.4, Table 1.1iii (Domain: Cognitive Development)",
+        "printedPages": "200"
+      }
+    },
+    {
+      "id": "ncfse-2023:PS.C-1.1",
+      "stage": "Preparatory",
+      "stageCode": "PS",
+      "grades": "Classes 3-5",
+      "cg": "CG-1",
+      "code": "C-1.1",
+      "summary": "Represents and compares whole numbers using Indian place value; reads names of very large numbers.",
+      "summaryIsParaphrase": true,
+      "source": {
+        "section": "Part C, Chapter 3, Section 3.4.1.1",
+        "printedPages": "253-254"
+      }
+    },
+    {
+      "id": "ncfse-2023:PS.C-1.2",
+      "stage": "Preparatory",
+      "stageCode": "PS",
+      "grades": "Classes 3-5",
+      "cg": "CG-1",
+      "code": "C-1.2",
+      "summary": "Represents and compares everyday fractions (e.g. one half, one quarter) as parts of a whole, points on a number line and results of division.",
+      "summaryIsParaphrase": true,
+      "source": {
+        "section": "Part C, Chapter 3, Section 3.4.1.1",
+        "printedPages": "253-254"
+      }
+    },
+    {
+      "id": "ncfse-2023:PS.C-1.3",
+      "stage": "Preparatory",
+      "stageCode": "PS",
+      "grades": "Classes 3-5",
+      "cg": "CG-1",
+      "code": "C-1.3",
+      "summary": "Understands and connects the four operations, knows tables to 10 x 10 (Pahade), and applies them to daily problems.",
+      "summaryIsParaphrase": true,
+      "source": {
+        "section": "Part C, Chapter 3, Section 3.4.1.1",
+        "printedPages": "253-254"
+      }
+    },
+    {
+      "id": "ncfse-2023:PS.C-1.4",
+      "stage": "Preparatory",
+      "stageCode": "PS",
+      "grades": "Classes 3-5",
+      "cg": "CG-1",
+      "code": "C-1.4",
+      "summary": "Recognises and extends simple number patterns (odd, even, square, cube, powers of 2 and 10, Virahanka-Fibonacci).",
+      "summaryIsParaphrase": true,
+      "source": {
+        "section": "Part C, Chapter 3, Section 3.4.1.1",
+        "printedPages": "253-254"
+      }
+    },
+    {
+      "id": "ncfse-2023:PS.C-2.1",
+      "stage": "Preparatory",
+      "stageCode": "PS",
+      "grades": "Classes 3-5",
+      "cg": "CG-2",
+      "code": "C-2.1",
+      "summary": "Compares and describes attributes of 2D and 3D shapes with appropriate vocabulary.",
+      "summaryIsParaphrase": true,
+      "source": {
+        "section": "Part C, Chapter 3, Section 3.4.1.1",
+        "printedPages": "253-254"
+      }
+    },
+    {
+      "id": "ncfse-2023:PS.C-2.2",
+      "stage": "Preparatory",
+      "stageCode": "PS",
+      "grades": "Classes 3-5",
+      "cg": "CG-2",
+      "code": "C-2.2",
+      "summary": "Describes position and movement in everyday and mathematical language; understands the idea of a map (Najri Naksha).",
+      "summaryIsParaphrase": true,
+      "source": {
+        "section": "Part C, Chapter 3, Section 3.4.1.1",
+        "printedPages": "253-254"
+      }
+    },
+    {
+      "id": "ncfse-2023:PS.C-2.3",
+      "stage": "Preparatory",
+      "stageCode": "PS",
+      "grades": "Classes 3-5",
+      "cg": "CG-2",
+      "code": "C-2.3",
+      "summary": "Recognises and creates reflection and rotation symmetry in familiar shapes.",
+      "summaryIsParaphrase": true,
+      "source": {
+        "section": "Part C, Chapter 3, Section 3.4.1.1",
+        "printedPages": "253-254"
+      }
+    },
+    {
+      "id": "ncfse-2023:PS.C-2.4",
+      "stage": "Preparatory",
+      "stageCode": "PS",
+      "grades": "Classes 3-5",
+      "cg": "CG-2",
+      "code": "C-2.4",
+      "summary": "Finds, describes and extends patterns in 2D and 3D shapes.",
+      "summaryIsParaphrase": true,
+      "source": {
+        "section": "Part C, Chapter 3, Section 3.4.1.1",
+        "printedPages": "253-254"
+      }
+    },
+    {
+      "id": "ncfse-2023:PS.C-3.1",
+      "stage": "Preparatory",
+      "stageCode": "PS",
+      "grades": "Classes 3-5",
+      "cg": "CG-3",
+      "code": "C-3.1",
+      "summary": "Measures with non-standard and standard units and sees why standard units are needed.",
+      "summaryIsParaphrase": true,
+      "source": {
+        "section": "Part C, Chapter 3, Section 3.4.1.1",
+        "printedPages": "253-254"
+      }
+    },
+    {
+      "id": "ncfse-2023:PS.C-3.2",
+      "stage": "Preparatory",
+      "stageCode": "PS",
+      "grades": "Classes 3-5",
+      "cg": "CG-3",
+      "code": "C-3.2",
+      "summary": "Chooses the right unit and tool for the attribute being measured (length, perimeter, time, weight, volume).",
+      "summaryIsParaphrase": true,
+      "source": {
+        "section": "Part C, Chapter 3, Section 3.4.1.1",
+        "printedPages": "253-254"
+      }
+    },
+    {
+      "id": "ncfse-2023:PS.C-3.3",
+      "stage": "Preparatory",
+      "stageCode": "PS",
+      "grades": "Classes 3-5",
+      "cg": "CG-3",
+      "code": "C-3.3",
+      "summary": "Makes simple conversions within one measurement system (e.g. cm to m).",
+      "summaryIsParaphrase": true,
+      "source": {
+        "section": "Part C, Chapter 3, Section 3.4.1.1",
+        "printedPages": "253-254"
+      }
+    },
+    {
+      "id": "ncfse-2023:PS.C-3.4",
+      "stage": "Preparatory",
+      "stageCode": "PS",
+      "grades": "Classes 3-5",
+      "cg": "CG-3",
+      "code": "C-3.4",
+      "summary": "Knows the area of a square or rectangle as length times breadth.",
+      "summaryIsParaphrase": true,
+      "source": {
+        "section": "Part C, Chapter 3, Section 3.4.1.1",
+        "printedPages": "253-254"
+      }
+    },
+    {
+      "id": "ncfse-2023:PS.C-3.5",
+      "stage": "Preparatory",
+      "stageCode": "PS",
+      "grades": "Classes 3-5",
+      "cg": "CG-3",
+      "code": "C-3.5",
+      "summary": "Estimates distance, length, time, perimeter, area, weight and volume and checks with standard units.",
+      "summaryIsParaphrase": true,
+      "source": {
+        "section": "Part C, Chapter 3, Section 3.4.1.1",
+        "printedPages": "253-254"
+      }
+    },
+    {
+      "id": "ncfse-2023:PS.C-3.6",
+      "stage": "Preparatory",
+      "stageCode": "PS",
+      "grades": "Classes 3-5",
+      "cg": "CG-3",
+      "code": "C-3.6",
+      "summary": "Shows that equal areas can have different perimeters and equal perimeters different areas.",
+      "summaryIsParaphrase": true,
+      "source": {
+        "section": "Part C, Chapter 3, Section 3.4.1.1",
+        "printedPages": "253-254"
+      }
+    },
+    {
+      "id": "ncfse-2023:PS.C-3.7",
+      "stage": "Preparatory",
+      "stageCode": "PS",
+      "grades": "Classes 3-5",
+      "cg": "CG-3",
+      "code": "C-3.7",
+      "summary": "Reasons about conservation of length and volume in daily-life problems.",
+      "summaryIsParaphrase": true,
+      "source": {
+        "section": "Part C, Chapter 3, Section 3.4.1.1",
+        "printedPages": "253-254"
+      }
+    },
+    {
+      "id": "ncfse-2023:PS.C-4.1",
+      "stage": "Preparatory",
+      "stageCode": "PS",
+      "grades": "Classes 3-5",
+      "cg": "CG-4",
+      "code": "C-4.1",
+      "summary": "Solves puzzles and daily problems with one or more whole-number operations (including magic squares).",
+      "summaryIsParaphrase": true,
+      "source": {
+        "section": "Part C, Chapter 3, Section 3.4.1.1",
+        "printedPages": "253-254"
+      }
+    },
+    {
+      "id": "ncfse-2023:PS.C-4.2",
+      "stage": "Preparatory",
+      "stageCode": "PS",
+      "grades": "Classes 3-5",
+      "cg": "CG-4",
+      "code": "C-4.2",
+      "summary": "Systematically lists all arrangements or selections that meet a simple constraint.",
+      "summaryIsParaphrase": true,
+      "source": {
+        "section": "Part C, Chapter 3, Section 3.4.1.1",
+        "printedPages": "253-254"
+      }
+    },
+    {
+      "id": "ncfse-2023:PS.C-4.3",
+      "stage": "Preparatory",
+      "stageCode": "PS",
+      "grades": "Classes 3-5",
+      "cg": "CG-4",
+      "code": "C-4.3",
+      "summary": "Chooses mental, estimation or written methods to suit the context.",
+      "summaryIsParaphrase": true,
+      "source": {
+        "section": "Part C, Chapter 3, Section 3.4.1.1",
+        "printedPages": "253-254"
+      }
+    },
+    {
+      "id": "ncfse-2023:PS.C-5.1",
+      "stage": "Preparatory",
+      "stageCode": "PS",
+      "grades": "Classes 3-5",
+      "cg": "CG-5",
+      "code": "C-5.1",
+      "summary": "Knows how zero and Indian place value developed, spread worldwide and matter today.",
+      "summaryIsParaphrase": true,
+      "source": {
+        "section": "Part C, Chapter 3, Section 3.4.1.1",
+        "printedPages": "253-254"
+      }
+    },
+    {
+      "id": "ncfse-2023:MS.C-1.1",
+      "stage": "Middle",
+      "stageCode": "MS",
+      "grades": "Classes 6-8",
+      "cg": "CG-1",
+      "code": "C-1.1",
+      "summary": "Reads, writes, names, compares, estimates and operates on large whole numbers (up to 20 digits); uses scientific notation.",
+      "summaryIsParaphrase": true,
+      "source": {
+        "section": "Part C, Chapter 3, Section 3.4.1.2",
+        "printedPages": "255-257"
+      }
+    },
+    {
+      "id": "ncfse-2023:MS.C-1.2",
+      "stage": "Middle",
+      "stageCode": "MS",
+      "grades": "Classes 6-8",
+      "cg": "CG-1",
+      "code": "C-1.2",
+      "summary": "Explores patterns in numbers (multiples, powers, primes), their rules and relationships.",
+      "summaryIsParaphrase": true,
+      "source": {
+        "section": "Part C, Chapter 3, Section 3.4.1.2",
+        "printedPages": "255-257"
+      }
+    },
+    {
+      "id": "ncfse-2023:MS.C-1.3",
+      "stage": "Middle",
+      "stageCode": "MS",
+      "grades": "Classes 6-8",
+      "cg": "CG-1",
+      "code": "C-1.3",
+      "summary": "Treats zero and negative quantities as numbers, with arithmetic rules as given by Brahmagupta.",
+      "summaryIsParaphrase": true,
+      "source": {
+        "section": "Part C, Chapter 3, Section 3.4.1.2",
+        "printedPages": "255-257"
+      }
+    },
+    {
+      "id": "ncfse-2023:MS.C-1.4",
+      "stage": "Middle",
+      "stageCode": "MS",
+      "grades": "Classes 6-8",
+      "cg": "CG-1",
+      "code": "C-1.4",
+      "summary": "Explores sets of numbers (whole, fractions, integers, rationals, reals), their properties and number-line pictures.",
+      "summaryIsParaphrase": true,
+      "source": {
+        "section": "Part C, Chapter 3, Section 3.4.1.2",
+        "printedPages": "255-257"
+      }
+    },
+    {
+      "id": "ncfse-2023:MS.C-1.5",
+      "stage": "Middle",
+      "stageCode": "MS",
+      "grades": "Classes 6-8",
+      "cg": "CG-1",
+      "code": "C-1.5",
+      "summary": "Understands percentage and uses it in problems.",
+      "summaryIsParaphrase": true,
+      "source": {
+        "section": "Part C, Chapter 3, Section 3.4.1.2",
+        "printedPages": "255-257"
+      }
+    },
+    {
+      "id": "ncfse-2023:MS.C-1.6",
+      "stage": "Middle",
+      "stageCode": "MS",
+      "grades": "Classes 6-8",
+      "cg": "CG-1",
+      "code": "C-1.6",
+      "summary": "Uses fractions as ratios and as decimals in daily-life situations.",
+      "summaryIsParaphrase": true,
+      "source": {
+        "section": "Part C, Chapter 3, Section 3.4.1.2",
+        "printedPages": "255-257"
+      }
+    },
+    {
+      "id": "ncfse-2023:MS.C-2.1",
+      "stage": "Middle",
+      "stageCode": "MS",
+      "grades": "Classes 6-8",
+      "cg": "CG-2",
+      "code": "C-2.1",
+      "summary": "Understands equality of numerical expressions and checks arithmetic equations.",
+      "summaryIsParaphrase": true,
+      "source": {
+        "section": "Part C, Chapter 3, Section 3.4.1.2",
+        "printedPages": "255-257"
+      }
+    },
+    {
+      "id": "ncfse-2023:MS.C-2.2",
+      "stage": "Middle",
+      "stageCode": "MS",
+      "grades": "Classes 6-8",
+      "cg": "CG-2",
+      "code": "C-2.2",
+      "summary": "Represents numbers with variables and algebraic expressions.",
+      "summaryIsParaphrase": true,
+      "source": {
+        "section": "Part C, Chapter 3, Section 3.4.1.2",
+        "printedPages": "255-257"
+      }
+    },
+    {
+      "id": "ncfse-2023:MS.C-2.3",
+      "stage": "Middle",
+      "stageCode": "MS",
+      "grades": "Classes 6-8",
+      "cg": "CG-2",
+      "code": "C-2.3",
+      "summary": "Forms and manipulates algebraic expressions with variables, coefficients and constants.",
+      "summaryIsParaphrase": true,
+      "source": {
+        "section": "Part C, Chapter 3, Section 3.4.1.2",
+        "printedPages": "255-257"
+      }
+    },
+    {
+      "id": "ncfse-2023:MS.C-2.4",
+      "stage": "Middle",
+      "stageCode": "MS",
+      "grades": "Classes 6-8",
+      "cg": "CG-2",
+      "code": "C-2.4",
+      "summary": "Poses and solves linear equations, including puzzles and word problems.",
+      "summaryIsParaphrase": true,
+      "source": {
+        "section": "Part C, Chapter 3, Section 3.4.1.2",
+        "printedPages": "255-257"
+      }
+    },
+    {
+      "id": "ncfse-2023:MS.C-2.5",
+      "stage": "Middle",
+      "stageCode": "MS",
+      "grades": "Classes 6-8",
+      "cg": "CG-2",
+      "code": "C-2.5",
+      "summary": "Devises own methods for puzzles and problems using algebraic thinking.",
+      "summaryIsParaphrase": true,
+      "source": {
+        "section": "Part C, Chapter 3, Section 3.4.1.2",
+        "printedPages": "255-257"
+      }
+    },
+    {
+      "id": "ncfse-2023:MS.C-3.1",
+      "stage": "Middle",
+      "stageCode": "MS",
+      "grades": "Classes 6-8",
+      "cg": "CG-3",
+      "code": "C-3.1",
+      "summary": "Classifies and relates 2D and 3D shapes by their defining properties.",
+      "summaryIsParaphrase": true,
+      "source": {
+        "section": "Part C, Chapter 3, Section 3.4.1.2",
+        "printedPages": "255-257"
+      }
+    },
+    {
+      "id": "ncfse-2023:MS.C-3.2",
+      "stage": "Middle",
+      "stageCode": "MS",
+      "grades": "Classes 6-8",
+      "cg": "CG-3",
+      "code": "C-3.2",
+      "summary": "Uses properties of lines, angles, triangles, quadrilaterals and polygons to solve problems.",
+      "summaryIsParaphrase": true,
+      "source": {
+        "section": "Part C, Chapter 3, Section 3.4.1.2",
+        "printedPages": "255-257"
+      }
+    },
+    {
+      "id": "ncfse-2023:MS.C-3.3",
+      "stage": "Middle",
+      "stageCode": "MS",
+      "grades": "Classes 6-8",
+      "cg": "CG-3",
+      "code": "C-3.3",
+      "summary": "Works with 3D shapes (cubes, cuboids, cylinders, cones), builds them and uses 2D representations.",
+      "summaryIsParaphrase": true,
+      "source": {
+        "section": "Part C, Chapter 3, Section 3.4.1.2",
+        "printedPages": "255-257"
+      }
+    },
+    {
+      "id": "ncfse-2023:MS.C-3.4",
+      "stage": "Middle",
+      "stageCode": "MS",
+      "grades": "Classes 6-8",
+      "cg": "CG-3",
+      "code": "C-3.4",
+      "summary": "Constructs lines, parallels, perpendiculars, angles and simple triangles with compass and straightedge.",
+      "summaryIsParaphrase": true,
+      "source": {
+        "section": "Part C, Chapter 3, Section 3.4.1.2",
+        "printedPages": "255-257"
+      }
+    },
+    {
+      "id": "ncfse-2023:MS.C-3.5",
+      "stage": "Middle",
+      "stageCode": "MS",
+      "grades": "Classes 6-8",
+      "cg": "CG-3",
+      "code": "C-3.5",
+      "summary": "Understands congruence and similarity and identifies congruent and similar triangles.",
+      "summaryIsParaphrase": true,
+      "source": {
+        "section": "Part C, Chapter 3, Section 3.4.1.2",
+        "printedPages": "255-257"
+      }
+    },
+    {
+      "id": "ncfse-2023:MS.C-4.1",
+      "stage": "Middle",
+      "stageCode": "MS",
+      "grades": "Classes 6-8",
+      "cg": "CG-4",
+      "code": "C-4.1",
+      "summary": "Uses area formulas for square, triangle, parallelogram and trapezium, and areas of composite shapes.",
+      "summaryIsParaphrase": true,
+      "source": {
+        "section": "Part C, Chapter 3, Section 3.4.1.2",
+        "printedPages": "255-257"
+      }
+    },
+    {
+      "id": "ncfse-2023:MS.C-4.2",
+      "stage": "Middle",
+      "stageCode": "MS",
+      "grades": "Classes 6-8",
+      "cg": "CG-4",
+      "code": "C-4.2",
+      "summary": "Learns the Baudhayana-Pythagoras theorem with an area-based proof and Sulba-Sutra constructions.",
+      "summaryIsParaphrase": true,
+      "source": {
+        "section": "Part C, Chapter 3, Section 3.4.1.2",
+        "printedPages": "255-257"
+      }
+    },
+    {
+      "id": "ncfse-2023:MS.C-4.3",
+      "stage": "Middle",
+      "stageCode": "MS",
+      "grades": "Classes 6-8",
+      "cg": "CG-4",
+      "code": "C-4.3",
+      "summary": "Makes tiling designs with 2D shapes and notices tilings in art.",
+      "summaryIsParaphrase": true,
+      "source": {
+        "section": "Part C, Chapter 3, Section 3.4.1.2",
+        "printedPages": "255-257"
+      }
+    },
+    {
+      "id": "ncfse-2023:MS.C-4.4",
+      "stage": "Middle",
+      "stageCode": "MS",
+      "grades": "Classes 6-8",
+      "cg": "CG-4",
+      "code": "C-4.4",
+      "summary": "Becomes familiar with fractals in nature and art.",
+      "summaryIsParaphrase": true,
+      "source": {
+        "section": "Part C, Chapter 3, Section 3.4.1.2",
+        "printedPages": "255-257"
+      }
+    },
+    {
+      "id": "ncfse-2023:MS.C-5.1",
+      "stage": "Middle",
+      "stageCode": "MS",
+      "grades": "Classes 6-8",
+      "cg": "CG-5",
+      "code": "C-5.1",
+      "summary": "Collects, organises and interprets data using mean, mode and median.",
+      "summaryIsParaphrase": true,
+      "source": {
+        "section": "Part C, Chapter 3, Section 3.4.1.2",
+        "printedPages": "255-257"
+      }
+    },
+    {
+      "id": "ncfse-2023:MS.C-5.2",
+      "stage": "Middle",
+      "stageCode": "MS",
+      "grades": "Classes 6-8",
+      "cg": "CG-5",
+      "code": "C-5.2",
+      "summary": "Chooses and draws suitable graphs (pictographs, bar graphs, histograms, line graphs, pie charts).",
+      "summaryIsParaphrase": true,
+      "source": {
+        "section": "Part C, Chapter 3, Section 3.4.1.2",
+        "printedPages": "255-257"
+      }
+    },
+    {
+      "id": "ncfse-2023:MS.C-6.1",
+      "stage": "Middle",
+      "stageCode": "MS",
+      "grades": "Classes 6-8",
+      "cg": "CG-6",
+      "code": "C-6.1",
+      "summary": "Uses inductive and deductive reasoning to form definitions and conjectures and to prove them (algebra, number theory, geometry).",
+      "summaryIsParaphrase": true,
+      "source": {
+        "section": "Part C, Chapter 3, Section 3.4.1.2",
+        "printedPages": "255-257"
+      }
+    },
+    {
+      "id": "ncfse-2023:MS.C-7.1",
+      "stage": "Middle",
+      "stageCode": "MS",
+      "grades": "Classes 6-8",
+      "cg": "CG-7",
+      "code": "C-7.1",
+      "summary": "Finds own creative solutions to puzzles and problems and appreciates others' approaches.",
+      "summaryIsParaphrase": true,
+      "source": {
+        "section": "Part C, Chapter 3, Section 3.4.1.2",
+        "printedPages": "255-257"
+      }
+    },
+    {
+      "id": "ncfse-2023:MS.C-7.2",
+      "stage": "Middle",
+      "stageCode": "MS",
+      "grades": "Classes 6-8",
+      "cg": "CG-7",
+      "code": "C-7.2",
+      "summary": "Appreciates the artistry of making and solving puzzles.",
+      "summaryIsParaphrase": true,
+      "source": {
+        "section": "Part C, Chapter 3, Section 3.4.1.2",
+        "printedPages": "255-257"
+      }
+    },
+    {
+      "id": "ncfse-2023:MS.C-8.1",
+      "stage": "Middle",
+      "stageCode": "MS",
+      "grades": "Classes 6-8",
+      "cg": "CG-8",
+      "code": "C-8.1",
+      "summary": "Uses programmatic thinking (iteration, symbols, logic) and breaks problems into ordered steps.",
+      "summaryIsParaphrase": true,
+      "source": {
+        "section": "Part C, Chapter 3, Section 3.4.1.2",
+        "printedPages": "255-257"
+      }
+    },
+    {
+      "id": "ncfse-2023:MS.C-8.2",
+      "stage": "Middle",
+      "stageCode": "MS",
+      "grades": "Classes 6-8",
+      "cg": "CG-8",
+      "code": "C-8.2",
+      "summary": "Counts and lists systematically, uses multiple representations, and designs and follows algorithms with attention to correctness and efficiency.",
+      "summaryIsParaphrase": true,
+      "source": {
+        "section": "Part C, Chapter 3, Section 3.4.1.2",
+        "printedPages": "255-257"
+      }
+    },
+    {
+      "id": "ncfse-2023:MS.C-9.1",
+      "stage": "Middle",
+      "stageCode": "MS",
+      "grades": "Classes 6-8",
+      "cg": "CG-9",
+      "code": "C-9.1",
+      "summary": "Knows how number and other concepts evolved across civilisations.",
+      "summaryIsParaphrase": true,
+      "source": {
+        "section": "Part C, Chapter 3, Section 3.4.1.2",
+        "printedPages": "255-257"
+      }
+    },
+    {
+      "id": "ncfse-2023:MS.C-9.2",
+      "stage": "Middle",
+      "stageCode": "MS",
+      "grades": "Classes 6-8",
+      "cg": "CG-9",
+      "code": "C-9.2",
+      "summary": "Knows contributions of Indian mathematicians such as Baudhayana, Pingala, Aryabhata, Brahmagupta, Virahanka, Bhaskara and Ramanujan.",
+      "summaryIsParaphrase": true,
+      "source": {
+        "section": "Part C, Chapter 3, Section 3.4.1.2",
+        "printedPages": "255-257"
+      }
+    },
+    {
+      "id": "ncfse-2023:MS.C-10.1",
+      "stage": "Middle",
+      "stageCode": "MS",
+      "grades": "Classes 6-8",
+      "cg": "CG-10",
+      "code": "C-10.1",
+      "summary": "Recognises how mathematics interacts with other subjects.",
+      "summaryIsParaphrase": true,
+      "source": {
+        "section": "Part C, Chapter 3, Section 3.4.1.2",
+        "printedPages": "255-257"
+      }
+    }
+  ]
+}
